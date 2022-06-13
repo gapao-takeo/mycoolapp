@@ -1,2 +1,2 @@
-# dev-spring-boot
+# mycoolapp
 udemy_SprintBoot
